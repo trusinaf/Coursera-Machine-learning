@@ -1,3 +1,3 @@
 # Coursera-Machine-learning
 
-Solution in html file.
+Solution in pdf file.
